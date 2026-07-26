@@ -1,0 +1,7 @@
+{
+  "version": "2.6.5",
+  "url": "https://raw.githubusercontent.com/IamGPIO/flight-light-firmware/main/firmware/flightlight-2.6.5.bin",
+  "notes": "Go back a version, plus safer updates.",
+  "size": 1212592,
+  "sha256": "ca115ad2eb5e27e42175ea9aecdaf77e47785af890c5284bd2f0b555eaf7dacb"
+}
