@@ -1,7 +1,7 @@
 {
-  "version": "2.6.5",
-  "url": "https://raw.githubusercontent.com/IamGPIO/flight-light-firmware/main/firmware/flightlight-2.6.5.bin",
-  "notes": "Go back a version, plus safer updates.",
-  "size": 1212592,
-  "sha256": "ca115ad2eb5e27e42175ea9aecdaf77e47785af890c5284bd2f0b555eaf7dacb"
+  "version": "2.8.2",
+  "url": "https://raw.githubusercontent.com/IamGPIO/flight-light-firmware/main/firmware/flightlight-2.8.2.bin",
+  "notes": "Runs cooler (ring brightness ceiling lowered), Wi-Fi setup rebuilt, updates verify themselves before installing, and changing your aircraft now starts fresh instead of carrying the old plane's flight over.",
+  "size": 1158160,
+  "sha256": "17326cd1991883a8f8d49542478ba5618a2dc61601552e3054068729b6a1cc03"
 }
