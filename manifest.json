@@ -1,7 +1,7 @@
 {
-  "version": "2.13.18",
-  "url": "https://raw.githubusercontent.com/IamGPIO/flight-light-firmware/main/firmware/flightlight-2.13.18.bin",
-  "notes": "Simpler setup: join 'Flight Light Setup', done. Find your light any time at flightlight.uk. Tap a status in Settings to give it a colour or an effect, and choose which rings a colour lights. Three flight-data sources, aircraft details, and where it touched down.",
-  "size": 1270768,
-  "sha256": "48473d0de32a5c53cc0b1e4c0acec19a69618bdd8d2eb3738bc08134b263e45c"
+  "version": "2.17.16",
+  "url": "https://raw.githubusercontent.com/IamGPIO/flight-light-firmware/main/firmware/flightlight-2.17.16.bin",
+  "notes": "Map draws this flight and the last one, with Dark, Map, Satellite and Chart looks, full screen and a Whole route button; live detail under the status; steadier ring; a Restore defaults button for each look; optional remote access from anywhere with notifications and a remote password; simpler setup, flightlight.uk, per-status looks, three data sources, aircraft details and where it touched down.",
+  "size": 1306432,
+  "sha256": "13020fe139a644feae835ae3a99cae7b264fa36222178e714cbd3e42411249e8"
 }
