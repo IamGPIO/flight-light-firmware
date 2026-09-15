@@ -1,7 +1,7 @@
 {
-  "version": "2.8.2",
-  "url": "https://raw.githubusercontent.com/IamGPIO/flight-light-firmware/main/firmware/flightlight-2.8.2.bin",
-  "notes": "Runs cooler (ring brightness ceiling lowered), Wi-Fi setup rebuilt, updates verify themselves before installing, and changing your aircraft now starts fresh instead of carrying the old plane's flight over.",
-  "size": 1158160,
-  "sha256": "17326cd1991883a8f8d49542478ba5618a2dc61601552e3054068729b6a1cc03"
+  "version": "2.13.18",
+  "url": "https://raw.githubusercontent.com/IamGPIO/flight-light-firmware/main/firmware/flightlight-2.13.18.bin",
+  "notes": "Simpler setup: join 'Flight Light Setup', done. Find your light any time at flightlight.uk. Tap a status in Settings to give it a colour or an effect, and choose which rings a colour lights. Three flight-data sources, aircraft details, and where it touched down.",
+  "size": 1270768,
+  "sha256": "48473d0de32a5c53cc0b1e4c0acec19a69618bdd8d2eb3738bc08134b263e45c"
 }
