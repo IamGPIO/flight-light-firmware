@@ -1,7 +1,7 @@
 {
-  "version": "2.17.16",
-  "url": "https://raw.githubusercontent.com/IamGPIO/flight-light-firmware/main/firmware/flightlight-2.17.16.bin",
-  "notes": "Map draws this flight and the last one, with Dark, Map, Satellite and Chart looks, full screen and a Whole route button; live detail under the status; steadier ring; a Restore defaults button for each look; optional remote access from anywhere with notifications and a remote password; simpler setup, flightlight.uk, per-status looks, three data sources, aircraft details and where it touched down.",
-  "size": 1306432,
-  "sha256": "13020fe139a644feae835ae3a99cae7b264fa36222178e714cbd3e42411249e8"
+  "version": "2.17.17",
+  "url": "https://raw.githubusercontent.com/IamGPIO/flight-light-firmware/main/firmware/flightlight-2.17.17.bin",
+  "notes": "Setting up away from home: the setup network now appears within seconds of plugging in and stays visible while you join a new Wi-Fi. Plus the map with routes, live detail, steadier ring, remote access and notifications.",
+  "size": 1307888,
+  "sha256": "96c3ceccdaa7da462e1e6a69d743eb95de119e4c610a4590fa00cf2070460658"
 }
